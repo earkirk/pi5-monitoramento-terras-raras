@@ -4,7 +4,7 @@ Markdown
 MVP desenvolvido para o **Projeto Integrador V** do curso de Ciência de Dados da **FATEC Baixada Santista - Rubens Lara**.
 
 ## Sobre o Projeto
-Pipeline automatizado de sensoriamento remoto e aprendizado de máquina para identificar e quantificar em hectares o impacto ambiental (supressão vegetal e exposição de solo) em áreas de mineração de terras raras a céu aberto, com estudo de caso na região de Araxá - MG.
+Pipeline automatizado de sensoriamento remoto e aprendizado de máquina para identificar e quantificar em hectares o impacto ambiental (supressão vegetal e exposição de solo) em áreas de mineração de terras raras a céu aberto.
 
 ## Tecnologias Utilizadas
 * **Python** & **Streamlit** (Interface web interativa)
